@@ -1,0 +1,75 @@
+{
+  "title": "Vibrotactile TGs",
+  "description": "A vibrotactile TGs that may use vibration, audio cues and speech-synthesis as feedback to describe the graphics",
+  "type": "object",
+  "properties": {
+    "className": {
+      "description": "Stage, Layer or SVG object types",
+      "type": "string"
+    },
+    "attrs": {
+      "type": "object",
+      "properties": {
+        "width": {
+          "type": "integer"
+        },
+        "height": {
+          "type": "integer"
+        },
+        "description": {
+          "type": "string"
+        }
+      }
+    },
+    "children": {
+      "description": "List of objects that are part of the current graphics",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "description": "A single object, part of the graphics",
+        "properties": {
+          "attrs": {
+            "type": "object",
+            "properties": {
+              "width": {
+                "type": "integer"
+              },
+              "height": {
+                "type": "integer"
+              },
+              "fill": {
+                "type": "string"
+              },
+              "stroke": {
+                "type": "string"
+              },
+              "strokeWidth": {
+                "type": "integer"
+              },
+              "x": {
+                "type": "integer"
+              },
+              "y": {
+                "type": "integer"
+              },
+              "data": {
+                "type": "string"
+              },
+              "feedbackType": {
+                "type": "string"
+              }
+            }
+          },
+          "className": {
+            "type": "string"
+          },
+          "children": {
+            "type": "array"
+          }
+        },
+        "required": ["children", "attrs", "className"]
+      }
+    }
+  },
+  "required": ["children", "attrs", "className"]
+}
