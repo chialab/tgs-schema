@@ -1,6 +1,6 @@
 {
   "title": "Vibrotactile TGs",
-  "description": "A vibrotactile TGs that may use vibration, audio cues and speech-synthesis as feedback to describe the graphics",
+  "description": "Instructions on how to explore this whole graphics",
   "type": "object",
   "properties": {
     "className": {
@@ -22,11 +22,11 @@
       }
     },
     "children": {
-      "description": "List of objects that are part of the current graphics",
+      "description": "Description on which objects are on the graphics, what does it represent",
       "type": "array",
       "items": {
         "type": "object",
-        "description": "A single object, part of the graphics",
+        "description": "Description of the single object on the graphics",
         "properties": {
           "attrs": {
             "type": "object",
