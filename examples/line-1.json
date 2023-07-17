@@ -1,0 +1,71 @@
+{
+  "title": "Curva usata nei test",
+  "description": "Esplora la figura da sinistra verso destra",
+  "className": "Layer",
+  "attrs": {
+    "width": 640,
+    "height": 420
+  },
+  "children": [
+    {
+      "attrs": {},
+      "className": "Layer",
+      "children": [
+        {
+          "attrs": {
+            "stroke": "#000000",
+            "strokeWidth": 5,
+            "data": "M 75.1640625,299.4140625 L 75.1640625,299.4140625 L 76.1640625,298.4140625 L 77.1640625,296.4140625 L 79.1640625,293.4140625 L 82.1640625,289.4140625 L 85.1640625,285.4140625 L 87.1640625,281.4140625 L 90.1640625,278.4140625 L 93.1640625,274.4140625 L 97.1640625,270.4140625 L 100.1640625,266.4140625 L 103.1640625,263.4140625 L 107.1640625,259.4140625 L 111.1640625,255.4140625 L 117.1640625,251.4140625 L 124.1640625,247.4140625 L 131.1640625,243.4140625 L 137.1640625,239.4140625 L 144.1640625,236.4140625 L 153.1640625,232.4140625 L 165.1640625,228.4140625 L 179.1640625,225.4140625 L 195.1640625,222.4140625 L 210.1640625,220.4140625 L 222.1640625,220.4140625 L 233.1640625,220.4140625 L 245.1640625,220.4140625 L 257.1640625,221.4140625 L 269.1640625,222.4140625 L 280.1640625,223.4140625 L 289.1640625,225.4140625 L 297.1640625,226.4140625 L 304.1640625,228.4140625 L 311.1640625,229.4140625 L 318.1640625,231.4140625 L 324.1640625,233.4140625 L 331.1640625,235.4140625 L 338.1640625,237.4140625 L 345.1640625,239.4140625 L 352.1640625,242.4140625 L 359.1640625,244.4140625 L 367.1640625,246.4140625 L 375.1640625,248.4140625 L 384.1640625,248.4140625 L 395.1640625,248.4140625 L 406.1640625,247.4140625 L 418.1640625,244.4140625 L 432.1640625,239.4140625 L 446.1640625,234.4140625 L 459.1640625,229.4140625 L 470.1640625,223.4140625 L 479.1640625,218.4140625 L 487.1640625,213.4140625 L 496.1640625,208.4140625 L 504.1640625,202.4140625 L 510.1640625,197.4140625 L 516.1640625,193.4140625 L 521.1640625,189.4140625 L 525.1640625,185.4140625 L 527.1640625,184.4140625 L 528.1640625,183.4140625 L 530.1640625,181.4140625 L 531.1640625,181.4140625 L 531.1640625,181.4140625 L 531.1640625,180.4140625",
+            "draggable": true,
+            "className": "Path"
+          },
+          "className": "Path"
+        },
+        {
+          "attrs": {
+            "tone": "START_TONE",
+            "draggable": true,
+            "x": 56,
+            "y": 277,
+            "className": "Image",
+            "src": "data:application/xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPEVycm9yPjxDb2RlPk5vU3VjaEtleTwvQ29kZT48TWVzc2FnZT5UaGUgc3BlY2lmaWVkIGtleSBkb2VzIG5vdCBleGlzdC48L01lc3NhZ2U+PEtleT5yZXMvaWNvbnMvc3RhcnRfdG9uZS5zdmc8L0tleT48UmVxdWVzdElkPkszSjA5RFI1VEVFSjhaQlk8L1JlcXVlc3RJZD48SG9zdElkPms2TXpqUzhWY2pMMktMRTRxampBbU5JeHUxWER1THZZVGdKcG9QandUR2pDSVcyNjd2V2M5bVVKcEEzOVVpamprME9Hb3JDVTYxVT08L0hvc3RJZD48L0Vycm9yPg=="
+          },
+          "className": "Image"
+        },
+        {
+          "attrs": {
+            "tone": "END_TONE",
+            "draggable": true,
+            "x": 518,
+            "y": 162,
+            "className": "Image",
+            "src": "data:application/xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPEVycm9yPjxDb2RlPk5vU3VjaEtleTwvQ29kZT48TWVzc2FnZT5UaGUgc3BlY2lmaWVkIGtleSBkb2VzIG5vdCBleGlzdC48L01lc3NhZ2U+PEtleT5yZXMvaWNvbnMvZW5kX3RvbmUuc3ZnPC9LZXk+PFJlcXVlc3RJZD5LM0pEMlJNRFE1WDVEN0YxPC9SZXF1ZXN0SWQ+PEhvc3RJZD40eXI3RG9kai9xWHNBUFhiTGcrQTh3dVNySUkwcjNuUTJVMWF4SjVEeWZrRSs3d2VwWWlTNUxOZndJa2dscmQxRldia1Z2WEhoZXc9PC9Ib3N0SWQ+PC9FcnJvcj4="
+          },
+          "className": "Image"
+        },
+        {
+          "attrs": {
+            "tone": "FLEX_TONE",
+            "draggable": true,
+            "x": 160,
+            "y": 203,
+            "className": "Image",
+            "src": "data:application/xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPEVycm9yPjxDb2RlPk5vU3VjaEtleTwvQ29kZT48TWVzc2FnZT5UaGUgc3BlY2lmaWVkIGtleSBkb2VzIG5vdCBleGlzdC48L01lc3NhZ2U+PEtleT5yZXMvaWNvbnMvZmxleF90b25lLnN2ZzwvS2V5PjxSZXF1ZXN0SWQ+SzNKRktKQUY5RVpYUTM5TTwvUmVxdWVzdElkPjxIb3N0SWQ+TEljMGNJVk1QRnNMejRZS1owaHB3RFEvVTkzQ0tiL3k1eEUyNXpxcmFxeFhITEM2ZU5ob3VlMXVtSHlWdHBIdnQ2dzBmakVkT3lRPTwvSG9zdElkPjwvRXJyb3I+"
+          },
+          "className": "Image"
+        },
+        {
+          "attrs": {
+            "tone": "FLEX_TONE",
+            "draggable": true,
+            "x": 370,
+            "y": 227,
+            "className": "Image",
+            "src": "data:application/xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPEVycm9yPjxDb2RlPk5vU3VjaEtleTwvQ29kZT48TWVzc2FnZT5UaGUgc3BlY2lmaWVkIGtleSBkb2VzIG5vdCBleGlzdC48L01lc3NhZ2U+PEtleT5yZXMvaWNvbnMvZmxleF90b25lLnN2ZzwvS2V5PjxSZXF1ZXN0SWQ+SzNKRktKQUY5RVpYUTM5TTwvUmVxdWVzdElkPjxIb3N0SWQ+TEljMGNJVk1QRnNMejRZS1owaHB3RFEvVTkzQ0tiL3k1eEUyNXpxcmFxeFhITEM2ZU5ob3VlMXVtSHlWdHBIdnQ2dzBmakVkT3lRPTwvSG9zdElkPjwvRXJyb3I+"
+          },
+          "className": "Image"
+        }
+      ]
+    }
+  ]
+}

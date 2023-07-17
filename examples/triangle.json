@@ -1,0 +1,124 @@
+{
+  "title": "Triangolo",
+  "description": "Verrà emesso un particolare suono acustico finché ti troverai all'interno della figura. I vertici verranno segnalati con sintesi vocale quando esplorati.",
+  "className": "Layer",
+  "attrs": {
+    "width": 640,
+    "height": 420
+  },
+  "children": [
+    {
+      "description": "Triangolo",
+      "attrs": {},
+      "className": "Layer",
+      "children": [
+        {
+          "attrs": {
+            "x": -61.81866555477211,
+            "y": 346.9989366301588,
+            "points": [
+              75,
+              75,
+              200,
+              75
+            ],
+            "fill": "black",
+            "strokeWidth": 4,
+            "stroke": "black",
+            "draggable": true,
+            "rotation": -52.16131384314506,
+            "scaleX": 2.2598556217551096,
+            "scaleY": 2.339357933845601,
+            "skewX": 6.720209902174831e-16,
+            "className": "Line"
+          },
+          "className": "Line"
+        },
+        {
+          "attrs": {
+            "x": 417.25662849480506,
+            "y": -120.14155214408959,
+            "points": [
+              75,
+              75,
+              200,
+              75
+            ],
+            "fill": "black",
+            "strokeWidth": 4,
+            "stroke": "black",
+            "draggable": true,
+            "rotation": 59.876280030323485,
+            "scaleX": 2.0672944917176945,
+            "scaleY": 2.244294302983163,
+            "skewX": 4.0201046352031734e-15,
+            "className": "Line"
+          },
+          "className": "Line"
+        },
+        {
+          "attrs": {
+            "x": -1.112113776813544,
+            "y": 136.88788622318617,
+            "points": [
+              75,
+              75,
+              200,
+              75
+            ],
+            "fill": "black",
+            "strokeWidth": 4,
+            "stroke": "black",
+            "draggable": true,
+            "scaleX": 2.4261933394084054,
+            "scaleY": 2.4261933394084085,
+            "className": "Line"
+          },
+          "className": "Line"
+        },
+        {
+          "attrs": {
+            "tone": "FREE_LABEL",
+            "text": "Vertice",
+            "draggable": true,
+            "x": 341.00000000000034,
+            "y": 84.00000000000003,
+            "scaleX": 0.7032985896829254,
+            "scaleY": 0.7032985896829255,
+            "className": "Image",
+            "src": "data:application/xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPEVycm9yPjxDb2RlPk5vU3VjaEtleTwvQ29kZT48TWVzc2FnZT5UaGUgc3BlY2lmaWVkIGtleSBkb2VzIG5vdCBleGlzdC48L01lc3NhZ2U+PEtleT5yZXMvaWNvbnMvZnJlZV9sYWJlbC5zdmc8L0tleT48UmVxdWVzdElkPlBXQjRSRDVLVDM0SEpSNk48L1JlcXVlc3RJZD48SG9zdElkPnFRdGluOEx0RkZveXZpMmFmNXQxQTVtNUJORW9yNmRONnJpMFNTRTRIWTBlVlpNaDNaeG03SFJTWExsKzdDa3hvY2V6T21VcjdaM0plQW9DQkdHNmZ6WC9ObVJKcERGejwvSG9zdElkPjwvRXJyb3I+"
+          },
+          "className": "Image"
+        },
+        {
+          "attrs": {
+            "tone": "FREE_LABEL",
+            "text": "Vertice",
+            "draggable": true,
+            "x": 471,
+            "y": 299,
+            "scaleX": 0.7970281715535554,
+            "scaleY": 0.7970281715535554,
+            "className": "Image",
+            "src": "data:application/xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPEVycm9yPjxDb2RlPk5vU3VjaEtleTwvQ29kZT48TWVzc2FnZT5UaGUgc3BlY2lmaWVkIGtleSBkb2VzIG5vdCBleGlzdC48L01lc3NhZ2U+PEtleT5yZXMvaWNvbnMvZnJlZV9sYWJlbC5zdmc8L0tleT48UmVxdWVzdElkPlBXQjRSRDVLVDM0SEpSNk48L1JlcXVlc3RJZD48SG9zdElkPnFRdGluOEx0RkZveXZpMmFmNXQxQTVtNUJORW9yNmRONnJpMFNTRTRIWTBlVlpNaDNaeG03SFJTWExsKzdDa3hvY2V6T21VcjdaM0plQW9DQkdHNmZ6WC9ObVJKcERGejwvSG9zdElkPjwvRXJyb3I+"
+          },
+          "className": "Image"
+        },
+        {
+          "attrs": {
+            "tone": "FREE_LABEL",
+            "text": "Vertice",
+            "draggable": true,
+            "x": 165.00000000000017,
+            "y": 304.65476494014257,
+            "scaleX": 0.7295385956205457,
+            "scaleY": 0.7295385956205459,
+            "className": "Image",
+            "src": "data:application/xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPEVycm9yPjxDb2RlPk5vU3VjaEtleTwvQ29kZT48TWVzc2FnZT5UaGUgc3BlY2lmaWVkIGtleSBkb2VzIG5vdCBleGlzdC48L01lc3NhZ2U+PEtleT5yZXMvaWNvbnMvZnJlZV9sYWJlbC5zdmc8L0tleT48UmVxdWVzdElkPlBXQjRSRDVLVDM0SEpSNk48L1JlcXVlc3RJZD48SG9zdElkPnFRdGluOEx0RkZveXZpMmFmNXQxQTVtNUJORW9yNmRONnJpMFNTRTRIWTBlVlpNaDNaeG03SFJTWExsKzdDa3hvY2V6T21VcjdaM0plQW9DQkdHNmZ6WC9ObVJKcERGejwvSG9zdElkPjwvRXJyb3I+"
+          },
+          "className": "Image"
+        }
+      ]
+    }
+  ]
+}

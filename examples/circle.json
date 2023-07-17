@@ -1,0 +1,32 @@
+{
+  "title": "Cerchio",
+  "description": "Verrà emesso un particolare suono acustico finché ti troverai all'interno della figura.",
+  "className": "Layer",
+  "attrs": {
+    "width": 640,
+    "height": 420
+  },
+  "children": [
+    {
+      "attrs": {},
+      "className": "Layer",
+      "children": [
+        {
+          "description": "Cerchio",
+          "attrs": {
+            "x": 331.91475622640814,
+            "y": 222.58142289307483,
+            "radius": 50,
+            "stroke": "black",
+            "strokeWidth": 4,
+            "draggable": true,
+            "scaleX": 2.7611812094822112,
+            "scaleY": 2.76118120948221,
+            "className": "Circle"
+          },
+          "className": "Circle"
+        }
+      ]
+    }
+  ]
+}
