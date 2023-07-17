@@ -12,10 +12,10 @@
       "className": "Layer",
       "children": [
         {
-          "description": "Cerchio",
+          "description:": "Cerchio",
           "attrs": {
             "x": 331.91475622640814,
-            "y": 222.58142289307483,
+            "y": 200.58142289307483,
             "radius": 50,
             "stroke": "black",
             "strokeWidth": 4,
