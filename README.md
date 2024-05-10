@@ -1,8 +1,8 @@
 # JSON-SCHEMA for Vibrotactile TGs
 
-`schema.json` contains the actual schema, while other JSON files has to seen as example to test against the schema.
+`schema.json` contains the actual schema, while other JSON files are examples to test against the schema.
 
-To test them, you can use:
+To test them you can use:
 
 `https://www.jsonschemavalidator.net/`
 
